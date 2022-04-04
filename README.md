@@ -1,2 +1,1 @@
-# Jokar
-Python
+Python updet
